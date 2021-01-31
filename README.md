@@ -12,4 +12,9 @@
 
 
 ## Install
- - 
+ 
+ ```
+ $ git clone https://github.com/iwatobipen/rdk_confgen.git
+ $ cd rdk_confgen
+ $ pip install -e .
+ ``` 
